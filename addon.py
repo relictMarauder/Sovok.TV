@@ -9,7 +9,7 @@ import datetime
 base_surl = 'http://api.sovok.tv/v2.3/xml/'
 sid = ''
 tpath = xbmc.translatePath('special://profile/addon_data/%s/' % xbmcaddon.Addon().getAddonInfo('id'))
-thumb = os.path.join( addon.getAddonInfo('path'), "icon.png" )
+# thumb = os.path.join( addon.getAddonInfo('path'), "icon.png" )
 
 def send_request(name, param = None) :
 	req = base_surl + name
