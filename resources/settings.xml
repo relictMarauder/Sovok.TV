@@ -1,0 +1,5 @@
+<settings>
+   <setting id="login" type="text" label="login" default="1111"/>
+   <setting id="password" type="text" label="password" option="hidden" default="1111"/>
+   <setting id="safe" type="bool" label="safe mode" default="false"/>
+</settings>

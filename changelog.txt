@@ -1,0 +1,9 @@
+v0.0.3
+- Add channel icons
+- Add showing programm name while plaing
+
+v0.0.2
+- Archives support
+
+v0.0.1
+- Initial version

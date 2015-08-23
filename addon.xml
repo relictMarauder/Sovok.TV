@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="relict.SovokTV" name="SovokTV" version="0.0.3" provider-name="relict">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Онлайн-телевидение Sovok.TV</summary>
+    <description>Онлайн-телевидение Sovok.TV: более 200 русскоязычных каналов (более 25 HD) от 7 евро в месяц</description>
+    <platform>all</platform>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
